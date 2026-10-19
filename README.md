@@ -6,17 +6,17 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 
 ---
 
-### 🚀 Highlights
+###  Highlights
 
-- 🎫 Resolve **100–150+ support tickets a month** across compute, networking, storage, and instance access
-- 🔄 Carry out **~70% of the team's cross-cloud migrations** using Veeam, and was the first team member trained to run them
-- 🌍 Contributed to a **cross-region migration of 1,000+ VMs** using Commvault (Mumbai-1 → Mumbai-2, Atlanta-1 → Atlanta-2)
-- 🛠️ Deployed complete **Veeam and Commvault environments** and configured backup, restore, and migration workflows
-- 🧪 Built a **multi-node OpenStack cloud with Kolla-Ansible** in my own lab
+- Resolve **100–150+ support tickets a month** across compute, networking, storage, and instance access
+- Carry out **~70% of the team's cross-cloud migrations** using Veeam, and was the first team member trained to run them
+- Contributed to a **cross-region migration of 1,000+ VMs** using Commvault (Mumbai-1 → Mumbai-2, Atlanta-1 → Atlanta-2)
+- Deployed complete **Veeam and Commvault environments** and configured backup, restore, and migration workflows
+- Built a **multi-node OpenStack cloud with Kolla-Ansible** in my own lab
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
 | Area | Tools & Concepts |
 |---|---|
@@ -31,7 +31,7 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 
 ---
 
-### 📈 Career Path 
+### Career Path 
 
 | Ace Cloud |Aug 2023 - Present|
 | Support Engineer **L2** | Apr 2026 – Present |
@@ -40,7 +40,7 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 
 ---
 
-### 🧪 Lab Projects
+### Lab Projects
 
 - **Kolla-Ansible OpenStack:** deployed an all-in-one cloud, then a multi-node cloud with separate controller and compute nodes; verified instance launch, networking, and volume attach
 - **Ansible Automation:** automated a five-node RHEL lab with roles, Jinja2, and Vault (users, packages, services, firewalld, SELinux, LVM); playbooks verified idempotent
@@ -50,12 +50,12 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 
 ---
 
-### 🎯 Currently Learning
+### Currently Learning
 
 Kubernetes · OpenShift
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/your-profile-here)
