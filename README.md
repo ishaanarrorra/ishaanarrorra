@@ -1,4 +1,4 @@
-# Hi, I'm Ishaan Arora 👋
+# Hi, I'm Ishaan Arora 
 
 **Cloud Support Engineer (L2) at Ace Cloud** · OpenStack · Linux · Backup & Migration · Automation
 
