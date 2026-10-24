@@ -12,7 +12,7 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 - Carry out **~70% of the team's cross-cloud migrations** using Veeam, and was the first team member trained to run them
 - Contributed to a **cross-region migration of 1,000+ VMs** using Commvault (Mumbai-1 → Mumbai-2, Atlanta-1 → Atlanta-2)
 - Deployed complete **Veeam and Commvault environments** and configured backup, restore, and migration workflows
-- Built a **multi-node OpenStack cloud with Kolla-Ansible** in my own lab
+- Built a **single-node OpenStack 2026.1 cloud with Kolla-Ansible** ([view project](https://github.com/ishaanarrorra/openstack-kolla-aio-lab)), and a multi-node deployment in my lab
 
 ---
 
