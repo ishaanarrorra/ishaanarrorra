@@ -31,9 +31,9 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 
 ---
 
-### Career Path 
-
-| Ace Cloud |Aug 2023 - Present|
+| Role | Period |
+|---|---|
+| **Ace Cloud** | Aug 2023 – Present |
 | Support Engineer **L2** | Apr 2026 – Present |
 | Support Engineer **L1** | Jun 2024 – Apr 2026 |
 | **Intern** | Aug 2023 – Jun 2024 |
