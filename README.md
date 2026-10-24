@@ -30,6 +30,7 @@ I've spent 3+ years supporting production cloud infrastructure in a 24/7 environ
 | **Other** | Windows Server, GPU instances & driver installation |
 
 ---
+### Career Path
 
 | Role | Period |
 |---|---|
