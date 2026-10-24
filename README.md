@@ -59,4 +59,4 @@ Kubernetes · OpenShift
 
 ### Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/your-profile-here)
+[LinkedIn](linkedin.com/in/ishaan-a-713491184)
